@@ -1,8 +1,8 @@
 {
     "poisonforme1@outlook.com": {
-        "Last check": "2023-05-02",
-        "Today's points": 736,
-        "Points": 3408
+        "Last check": "2023-05-03",
+        "Today's points": 476,
+        "Points": 3884
     },
-    "Elapsed time": "00:13:17"
+    "Elapsed time": "00:14:13"
 }
